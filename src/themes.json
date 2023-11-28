@@ -1,7 +1,7 @@
 [
     {"name": "Default", "theme": "default"},
     {"name": "Light", "theme": "light"},
-    {"name": "Suit", "theme": "suit"},
+    {"name": "Suit", "theme": "suite"},
     {"name": "Dante", "theme": "dante"},
     {"name": "Blizzard", "theme": "blizzard"},
     {"name": "Metallic", "theme": "metallic"},
